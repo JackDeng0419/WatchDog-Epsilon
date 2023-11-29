@@ -1,0 +1,23 @@
+# Mac Os System file
+.DS_Store
+# Idea editor files
+.idea/*
+.idea
+# VsCode editor files
+.vscode/*
+.vscode
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+watchdog_pi_camera
+*.pyc
+
+__pycache__/*
+
+output.avi
+
+start*.jpg
+end*.jpg
