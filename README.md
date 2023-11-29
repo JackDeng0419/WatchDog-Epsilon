@@ -10,5 +10,16 @@ The Watch Dog system, developed to enhance pa- tient safety in healthcare for el
 - [x] Easy bluetooth pairing setup
 - [x] Remote control of the sensors
 
+## Technology Stack
+- [x] AWS
+- [x] Google Cloud
+- [x] Raspberry Pi
+- [x] React Native
+- [x] Django
+- [x] Firebase
+- [x] SORT Algorithm
+- [x] MediaPipe Object Detection
+- [x] MQTT
+
 ## Architecture Diagram
 ![Architecture Diagram](./img/iShot_2023-11-29_21.56.52.png)
