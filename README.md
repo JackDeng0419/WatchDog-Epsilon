@@ -23,3 +23,6 @@ The Watch Dog system, developed to enhance patient safety in healthcare for elde
 
 ## Architecture Diagram
 ![Architecture Diagram](./img/iShot_2023-11-29_21.56.52.png)
+
+## Demo Video
+[![WatchDog Demo Video](./img/iShot_2023-11-29_21.46.48.png)](https://www.youtube.com/watch?v=XjNTUxE-rmw&ab_channel=JackDeng)
